@@ -17,13 +17,13 @@ Installation
 
 If you really trust me, you can run this simple command in your Terminal to download and install the DOTS framework!
 
-    curl -L https://github.com/tubbo/dots/raw/master/tools/install.sh | sh
+    curl -L https://github.com/anithri/dots/raw/master/tools/install.sh | sh
 
 ### Manual install:
 
 For the more paranoid users, here's basically what the above script does:
 
-    git clone git://github.com/tubbo/dots.git ~/.dots
+    git clone git://github.com/anithri/dots.git ~/.dots
     ln -s ~/.dots/config/zshrc ~/.zshrc
     chsh -s /bin/zsh
 
